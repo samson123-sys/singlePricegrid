@@ -219,11 +219,14 @@ body{
   .block{
     padding: 3em;
   }
+  .pad{
+    margin-bottom: 30px;
+  }
 
 
 /* TYpography */
 .heading{
-  font-size: 1.7rem;
+  font-size: 1.6rem;
   font-weight: 700;
   margin-bottom: 20px;
 }
